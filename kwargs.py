@@ -5,6 +5,7 @@ def hello(**kwargs):
     print("Hello", end=" ")
     #for value in kwargs.values(): or
     for key,value in kwargs.items():
-        print(value)
+        print(key,value)
     
 hello(title="Mr.", first="Bro",middle="Dude",last="Code")
+# title, first, middle and last are the keys . The rest is the values

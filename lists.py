@@ -18,7 +18,7 @@ print(food[1])
 #Functions
 
 food.pop() #remove the last one
-food.append("ice cream")
+food.append("ice cream") #add in the end
 food.insert(0,"cake") 
 food.remove("soda")
 food.sort() #organize alphabetcally
