@@ -15,4 +15,4 @@ except Exception as e:
 else: #If none of the exception been called, the else statment will be execute
     print(result)
 finally:
-    print("This will always be execute")
+    print("This will always execute")
