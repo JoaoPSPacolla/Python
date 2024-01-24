@@ -9,10 +9,13 @@ dishes = {"bowl", "plate", "cup", "knife"}
 #set.update(dishes)
 #dishes.update(set)
 
+'''set[0] = "banana"
+print(set[0]) --> Those doesn't work'''
+
 dinner_table = set.union(dishes)
 
-#for i in set:
-#    print(i)
+for i in set:
+   print(i)
 
 print()
 print(dishes.difference(set))
@@ -20,4 +23,4 @@ print(dishes.intersection(set))
 print()
 
 #for i in dinner_table:
- #   print(i)
+ #   print(i)'''

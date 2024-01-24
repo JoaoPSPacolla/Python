@@ -7,13 +7,21 @@ students = [("Squidward", "F", 60),
             ("Spongebob","B", 20),
             ("Mr.Krabs","C", 78)]
 
-students.sort()
+students.sort(reverse=True)
 for i in students:
     print(i)
 
 print()
 
-grade = lambda grades:grades[1] #for each grades, take the column 1 (remember, it's starting counting by zero)
+age = lambda n:n[2]
+students.sort(key=age)
+#ages = sorted(students,key=age)
+for i in students:
+    print(i)
+
+print()
+
+grade = lambda i:i[1] #for each grades, take the column 1 (remember, it's starting counting by zero)
 students.sort(key=grade)  # sorts current list
 sorted_students = sorted(students,key=grade) # sorts and creates a new list
 
