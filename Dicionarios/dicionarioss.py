@@ -1,7 +1,7 @@
 #dictionary = changeable, unordered, acess value quickly. Always use {}
 #It's list that you acess the members by 'kind of' and ID, that they have
 
-#Uma lista tem [] e você poderia fazer uma lista de capitais. Ex: capitais = ['Washington', 'Brasilia', 'Moscow']. Porém, você não consegue identificar esses valores. Portanto, através de uma lista, não é possível qual dizer, por exemplo, que Brasilia é a capital do Brasil, mas por um dicionário, sim
+#Uma lista tem [] e vocï¿½ poderia fazer uma lista de capitais. Ex: capitais = ['Washington', 'Brasilia', 'Moscow']. Porï¿½m, vocï¿½ nï¿½o consegue identificar esses valores. Portanto, atravï¿½s de uma lista, nï¿½o ï¿½ possï¿½vel qual dizer, por exemplo, que Brasilia ï¿½ a capital do Brasil, mas por um dicionï¿½rio, sim
 
 #Capitals - dictionary
 #Countries - Keys
