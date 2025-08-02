@@ -38,3 +38,7 @@ The goal of this repository is to serve as a personal reference and showcase of 
 ---
 
 Feel free to explore, fork, or contribute!
+
+<img width="1220" height="940" alt="image" src="https://github.com/user-attachments/assets/68e6cb5e-08ed-4fee-aba1-5508b5821d91" />
+<img width="1220" height="936" alt="image" src="https://github.com/user-attachments/assets/109be77e-7a1a-45eb-9ec7-9997d36fd2f8" />
+
