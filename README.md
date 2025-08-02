@@ -4,7 +4,7 @@ This repository contains exercises, notes, and practice code developed during my
 
 ## 📚 Study Sources
 
-- [Curso em Vídeo – Python by Gustavo Guanabara (in Portuguese)](https://www.youtube.com/playlist?list=PLHz_AreHm4dkZ6DzZR5DKiZ3P55YRn5vY)
+- [Curso em Vídeo – Python by Gustavo Guanabara (in Portuguese)](https://www.cursoemvideo.com/cursos/)
 - [Bro Code – Python Full Course for Beginners](https://www.youtube.com/watch?v=XKHEtdqhLK8)
 
 ## 🗂 Repository Structure
@@ -38,4 +38,3 @@ The goal of this repository is to serve as a personal reference and showcase of 
 ---
 
 Feel free to explore, fork, or contribute!
-
