@@ -1,0 +1,7 @@
+valor = (input('Digite algo'))
+print(valor.isalnum())
+print(valor.isupper())
+print(valor.islower())
+print(valor.isalpha())
+print(valor.isnumeric())
+print(valor.isspace())
